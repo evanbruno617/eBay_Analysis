@@ -45,7 +45,7 @@ The NRMSE being 0.08 indicates that this model is excellent at predicting the ch
 
 ---
 
-# Conlsuion
+# Conclusion
 
 Even though only one of the products used time series analysis to predict changes in total sold and average price sold this same model and concepts can be used in other products as well. 
 Being able to predict the change in average price sold is useful for sellers to know when to sell their products and the best price to sell it at. Being able to apply this same model and concept to other products
